@@ -1,0 +1,20 @@
+#EXTM3U
+#PLAYLIST:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",D-Smart FX
+http://tvog.eu:8080/ibrahim/08.03.2020/710?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",FX HD
+http://rv.imax.re:80/691101116461401/691101116461401/80541?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",Fox Crime HD
+http://tvog.eu:8080/ibrahim/08.03.2020/13270?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",BEIN MOVIES TÜRK [HD]
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/b21ae52fbde03ba.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",BEIN SERIES DRAMA [HD]
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/db3bebf0bd1a3d8.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",BEIN SERIES SCI-FI [HD]
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/108e3ba87e8c95e.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",Bein Series Drama Hd
+http://tvog.eu:8080/ibrahim/08.03.2020/6903?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",Bein Series Sci-fi Hd
+http://tvog.eu:8080/ibrahim/08.03.2020/768?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",Bein Sports 1 Mobile
+http://tvog.eu:8080/ibrahim/08.03.2020/4521?checkedby:iptvcat.com
